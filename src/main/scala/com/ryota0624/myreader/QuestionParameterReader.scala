@@ -1,4 +1,4 @@
-package com.ryota0624
+package com.ryota0624.myreader
 
 import java.io.BufferedReader
 

@@ -1,6 +1,7 @@
-package com.ryota0624
+package com.ryota0624.myreader
 
-import com.ryota0624.LineReadable.ReadableArray
+import com.ryota0624.myreader.LineReadable.ReadableArray
+import com.ryota0624.myreader.QuestionParameterReader
 
 import scala.util.Success
 import org.scalatest.TryValues._

@@ -1,7 +1,6 @@
-package com.ryota0624
+package com.ryota0624.myreader
 
 class StdinUtils {
-  import io.StdIn._
 //
   // val otosidamaCount = readInt()
 //  var readCount = 0
