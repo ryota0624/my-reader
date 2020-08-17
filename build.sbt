@@ -1,14 +1,7 @@
-name := "my-reader"
-
-version := "1.0"
-
-scalaVersion := "2.13.3"
-
 lazy val `my-reader` = (project in file("."))
   .settings(
     name := "my-reader",
-    version := "0.1",
-    scalaVersion := "2.13.3",
+    version := "1.0",
     organization := "com.ryota0624"
   )
   .settings(
