@@ -1,4 +1,4 @@
-lazy val `my-reader` = (project in file("."))
+lazy val root = (project in file("."))
   .settings(
     name := "my-reader",
     version := "1.0",
